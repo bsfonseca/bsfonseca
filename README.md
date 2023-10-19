@@ -1,7 +1,7 @@
 ## 💜 Olá, meu nome é <strong>Bruna Fonseca</strong>
 
 - :sunflower: Estou aprofundando meu conhecimento em Front-End e Back-End.
-- 🎓 <strong>Formação:</strong> Sou formada em Tecnologia em alimentos, e atualmente estudo Desenvolvimento Web Full Stack na <a href="https://www.growdev.com.br/">Growdev</a>.
+- 🎓 <strong>Formação:</strong> Estou cursando Análise e Desenvolvimento de Sistemas na Universidade do Vale do Rio dos Sinos (Unisinos), enquanto me aprofundo em Desenvolvimento Web Full Stack por meio do programa da Growdev. <a href="https://www.growdev.com.br/">Growdev</a>.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
